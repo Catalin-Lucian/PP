@@ -6,6 +6,6 @@ Grupa   : 1209A;
 
 
 Observatii:
-++ vor aparea temele pana duminica
+++ 
 
 
