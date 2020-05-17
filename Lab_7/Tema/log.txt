@@ -1,0 +1,102 @@
+Start-Date: 2020-04-01  09:48:36
+Commandline: /usr/bin/unattended-upgrade
+Remove: linux-modules-extra-5.3.0-40-generic:amd64 (5.3.0-40.32~18.04.1)
+End-Date: 2020-04-01  09:48:45
+
+Start-Date: 2020-04-01  09:48:49
+Commandline: /usr/bin/unattended-upgrade
+Remove: linux-headers-5.3.0-40-generic:amd64 (5.3.0-40.32~18.04.1)
+End-Date: 2020-04-01  09:49:00
+
+Start-Date: 2020-04-01  09:49:04
+Commandline: /usr/bin/unattended-upgrade
+Remove: linux-headers-5.3.0-40:amd64 (5.3.0-40.32~18.04.1)
+End-Date: 2020-04-01  09:49:10
+
+Start-Date: 2020-04-01  09:49:14
+Commandline: /usr/bin/unattended-upgrade
+Remove: linux-image-5.3.0-40-generic:amd64 (5.3.0-40.32~18.04.1), linux-modules-5.3.0-40-generic:amd64 (5.3.0-40.32~18.04.1)
+End-Date: 2020-04-01  09:49:25
+
+Start-Date: 2020-04-02  07:54:15
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-apport:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+End-Date: 2020-04-02  07:54:17
+
+Start-Date: 2020-04-02  07:54:21
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-problem-report:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+End-Date: 2020-04-02  07:54:23
+
+Start-Date: 2020-04-02  07:54:27
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: apport:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+End-Date: 2020-04-02  07:54:52
+
+Start-Date: 2020-04-02  07:54:57
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: apport-gtk:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+End-Date: 2020-04-02  07:54:59
+
+Start-Date: 2020-04-04  10:41:25
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgd3:amd64 (2.2.5-4ubuntu0.3, 2.2.5-4ubuntu0.4)
+End-Date: 2020-04-04  10:41:30
+
+Start-Date: 2020-04-05  10:48:59
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: firefox:amd64 (74.0+build3-0ubuntu0.18.04.1, 74.0.1+build1-0ubuntu0.18.04.1)
+End-Date: 2020-04-05  10:49:19
+
+Start-Date: 2020-04-05  10:49:23
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: firefox-locale-en:amd64 (74.0+build3-0ubuntu0.18.04.1, 74.0.1+build1-0ubuntu0.18.04.1)
+End-Date: 2020-04-05  10:49:24
+
+Start-Date: 2020-04-07  07:38:48
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: linux-libc-dev:amd64 (4.15.0-91.92, 4.15.0-96.97)
+End-Date: 2020-04-07  07:38:55
+
+Start-Date: 2020-04-07  16:40:30
+Commandline: packagekit role='install-files'
+Requested-By: para (1000)
+Install: google-chrome-stable:amd64 (80.0.3987.163-1)
+End-Date: 2020-04-07  16:40:53
+
+Start-Date: 2020-04-08  09:19:55
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: chromium-codecs-ffmpeg-extra:amd64 (80.0.3987.149-0ubuntu0.18.04.1, 80.0.3987.163-0ubuntu0.18.04.1)
+End-Date: 2020-04-08  09:19:59
+
+Start-Date: 2020-04-08  09:20:04
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: firefox:amd64 (74.0.1+build1-0ubuntu0.18.04.1, 75.0+build3-0ubuntu0.18.04.1)
+End-Date: 2020-04-08  09:20:19
+
+Start-Date: 2020-04-08  09:20:23
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: firefox-locale-en:amd64 (74.0.1+build1-0ubuntu0.18.04.1, 75.0+build3-0ubuntu0.18.04.1)
+End-Date: 2020-04-08  09:20:25
+
+Start-Date: 2020-04-08  09:20:29
+Commandline: /usr/bin/unattended-upgrade
+Install: linux-image-5.3.0-46-generic:amd64 (5.3.0-46.38~18.04.1, automatic), linux-headers-5.3.0-46:amd64 (5.3.0-46.38~18.04.1, automatic), linux-headers-5.3.0-46-generic:amd64 (5.3.0-46.38~18.04.1, automatic), linux-modules-extra-5.3.0-46-generic:amd64 (5.3.0-46.38~18.04.1, automatic), linux-modules-5.3.0-46-generic:amd64 (5.3.0-46.38~18.04.1, automatic)
+Upgrade: linux-headers-generic-hwe-18.04:amd64 (5.3.0.45.101, 5.3.0.46.102), linux-image-generic-hwe-18.04:amd64 (5.3.0.45.101, 5.3.0.46.102), linux-generic-hwe-18.04:amd64 (5.3.0.45.101, 5.3.0.46.102)
+End-Date: 2020-04-08  09:21:22
+
+Start-Date: 2020-04-09  07:52:26
+Commandline: /usr/bin/unattended-upgrade
+Remove: linux-headers-5.3.0-42-generic:amd64 (5.3.0-42.34~18.04.1), linux-headers-5.3.0-42:amd64 (5.3.0-42.34~18.04.1)
+End-Date: 2020-04-09  07:53:15
+
+Start-Date: 2020-04-09  07:53:19
+Commandline: /usr/bin/unattended-upgrade
+Remove: linux-image-5.3.0-42-generic:amd64 (5.3.0-42.34~18.04.1), linux-modules-extra-5.3.0-42-generic:amd64 (5.3.0-42.34~18.04.1), linux-modules-5.3.0-42-generic:amd64 (5.3.0-42.34~18.04.1)
+End-Date: 2020-04-09  07:55:41
+
+Start-Date: 2020-04-10  10:33:13
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libssh-gcrypt-4:amd64 (0.8.0~20170825.94fa1e38-1ubuntu0.5, 0.8.0~20170825.94fa1e38-1ubuntu0.6)
+End-Date: 2020-04-10  10:33:26
+
